@@ -1,0 +1,12 @@
+.env
+*.csv
+*.json
+*.parquet
+*.pyc
+.DS_Store
+
+__pycache__/
+.ipynb_checkpoints/
+env/
+venv/
+!.vscode/*
